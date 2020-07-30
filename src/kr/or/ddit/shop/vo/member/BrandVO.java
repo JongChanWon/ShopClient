@@ -7,9 +7,9 @@ public class BrandVO implements Serializable{
 	private int brand_no    ;
 	private String brand_regno ;
 	private String brand_name  ;
+	private int brand_zip;
 	private String brand_addr1 ;
 	private String brand_addr2 ;
-	private int brand_zip;
 	private String brand_phone ;
 	private String brand_status;
 	
